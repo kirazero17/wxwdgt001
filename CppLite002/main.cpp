@@ -3,6 +3,7 @@
 #include "MainDialog.h"
 #include <wx/image.h>
 
+
 // Define the MainApp
 class MainApp : public wxApp
 {

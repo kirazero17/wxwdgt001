@@ -83,12 +83,34 @@
  C:/wxWidgets/include/wx/containr.h C:/wxWidgets/include/wx/sharedptr.h \
  C:/wxWidgets/include/wx/atomic.h C:/wxWidgets/include/wx/msw/dialog.h \
  C:/wxWidgets/include/wx/panel.h C:/wxWidgets/include/wx/msw/panel.h \
- C:/wxWidgets/include/wx/sizer.h C:/wxWidgets/include/wx/statline.h \
+ C:/wxWidgets/include/wx/sizer.h C:/wxWidgets/include/wx/statbox.h \
  C:/wxWidgets/include/wx/control.h C:/wxWidgets/include/wx/msw/control.h \
- C:/wxWidgets/include/wx/msw/statline.h C:/wxWidgets/include/wx/button.h \
+ C:/wxWidgets/include/wx/msw/statbox.h \
+ C:/wxWidgets/include/wx/compositewin.h \
+ C:/wxWidgets/include/wx/stattext.h \
+ C:/wxWidgets/include/wx/msw/stattext.h C:/wxWidgets/include/wx/button.h \
  C:/wxWidgets/include/wx/anybutton.h \
  C:/wxWidgets/include/wx/msw/anybutton.h \
- C:/wxWidgets/include/wx/msw/button.h
+ C:/wxWidgets/include/wx/msw/button.h C:/wxWidgets/include/wx/textctrl.h \
+ C:/wxWidgets/include/wx/textentry.h \
+ C:/wxWidgets/include/wx/msw/textentry.h \
+ C:/wxWidgets/include/wx/ioswrap.h C:/wxWidgets/include/wx/msw/textctrl.h \
+ C:/wxWidgets/include/wx/persist.h C:/wxWidgets/include/wx/confbase.h \
+ C:/wxWidgets/include/wx/base64.h \
+ C:/wxWidgets/include/wx/persist/toplevel.h \
+ C:/wxWidgets/include/wx/persist/window.h \
+ C:/wxWidgets/include/wx/persist/bookctrl.h \
+ C:/wxWidgets/include/wx/bookctrl.h C:/wxWidgets/include/wx/withimages.h \
+ C:/wxWidgets/include/wx/notebook.h \
+ C:/wxWidgets/include/wx/msw/notebook.h \
+ C:/wxWidgets/include/wx/persist/treebook.h \
+ C:/wxWidgets/include/wx/treebook.h C:/wxWidgets/include/wx/treebase.h \
+ C:/wxWidgets/include/wx/itemid.h subinclude.h \
+ C:/wxWidgets/include/wx/msgdlg.h C:/wxWidgets/include/wx/stockitem.h \
+ C:/wxWidgets/include/wx/generic/msgdlgg.h \
+ C:/wxWidgets/include/wx/msw/msgdlg.h C:/wxWidgets/include/wx/filedlg.h \
+ C:/wxWidgets/include/wx/msw/filedlg.h C:/wxWidgets/include/wx/wfstream.h \
+ C:/wxWidgets/include/wx/ffile.h C:/wxWidgets/include/wx/txtstrm.h
 C:/wxWidgets/include/wx/app.h:
 C:/wxWidgets/include/wx/event.h:
 C:/wxWidgets/include/wx/defs.h:
@@ -238,11 +260,43 @@ C:/wxWidgets/include/wx/msw/dialog.h:
 C:/wxWidgets/include/wx/panel.h:
 C:/wxWidgets/include/wx/msw/panel.h:
 C:/wxWidgets/include/wx/sizer.h:
-C:/wxWidgets/include/wx/statline.h:
+C:/wxWidgets/include/wx/statbox.h:
 C:/wxWidgets/include/wx/control.h:
 C:/wxWidgets/include/wx/msw/control.h:
-C:/wxWidgets/include/wx/msw/statline.h:
+C:/wxWidgets/include/wx/msw/statbox.h:
+C:/wxWidgets/include/wx/compositewin.h:
+C:/wxWidgets/include/wx/stattext.h:
+C:/wxWidgets/include/wx/msw/stattext.h:
 C:/wxWidgets/include/wx/button.h:
 C:/wxWidgets/include/wx/anybutton.h:
 C:/wxWidgets/include/wx/msw/anybutton.h:
 C:/wxWidgets/include/wx/msw/button.h:
+C:/wxWidgets/include/wx/textctrl.h:
+C:/wxWidgets/include/wx/textentry.h:
+C:/wxWidgets/include/wx/msw/textentry.h:
+C:/wxWidgets/include/wx/ioswrap.h:
+C:/wxWidgets/include/wx/msw/textctrl.h:
+C:/wxWidgets/include/wx/persist.h:
+C:/wxWidgets/include/wx/confbase.h:
+C:/wxWidgets/include/wx/base64.h:
+C:/wxWidgets/include/wx/persist/toplevel.h:
+C:/wxWidgets/include/wx/persist/window.h:
+C:/wxWidgets/include/wx/persist/bookctrl.h:
+C:/wxWidgets/include/wx/bookctrl.h:
+C:/wxWidgets/include/wx/withimages.h:
+C:/wxWidgets/include/wx/notebook.h:
+C:/wxWidgets/include/wx/msw/notebook.h:
+C:/wxWidgets/include/wx/persist/treebook.h:
+C:/wxWidgets/include/wx/treebook.h:
+C:/wxWidgets/include/wx/treebase.h:
+C:/wxWidgets/include/wx/itemid.h:
+subinclude.h:
+C:/wxWidgets/include/wx/msgdlg.h:
+C:/wxWidgets/include/wx/stockitem.h:
+C:/wxWidgets/include/wx/generic/msgdlgg.h:
+C:/wxWidgets/include/wx/msw/msgdlg.h:
+C:/wxWidgets/include/wx/filedlg.h:
+C:/wxWidgets/include/wx/msw/filedlg.h:
+C:/wxWidgets/include/wx/wfstream.h:
+C:/wxWidgets/include/wx/ffile.h:
+C:/wxWidgets/include/wx/txtstrm.h:

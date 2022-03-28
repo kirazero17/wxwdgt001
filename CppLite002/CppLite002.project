@@ -99,6 +99,7 @@
     <File Name="MainDialog.cpp"/>
   </VirtualDirectory>
   <VirtualDirectory Name="include">
+    <File Name="subinclude.h"/>
     <File Name="MainDialog.h"/>
     <File Name="wxcrafter.h"/>
   </VirtualDirectory>

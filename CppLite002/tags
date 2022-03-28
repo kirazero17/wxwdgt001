@@ -1,0 +1,14 @@
+_CPPLITE001_PROJEKT02_WXCRAFTER_BASE_CLASSES_H	D:\Progdocs\CppLite\CppLite001\Projekt02\wxcrafter.h	/^#define _CPPLITE001_PROJEKT02_WXCRAFTER_BASE_CLASSES_H$/;"	macro	line:8
+WXC_FROM_DIP	D:\Progdocs\CppLite\CppLite001\Projekt02\wxcrafter.h	/^#undef WXC_FROM_DIP$/;"	macro	line:29
+WXC_FROM_DIP	D:\Progdocs\CppLite\CppLite001\Projekt02\wxcrafter.h	/^#define WXC_FROM_DIP(x) wxWindow::FromDIP(x, NULL)$/;"	macro	line:32
+WXC_FROM_DIP	D:\Progdocs\CppLite\CppLite001\Projekt02\wxcrafter.h	/^#define WXC_FROM_DIP(x) x$/;"	macro	line:34
+MainDialogBaseClass	D:\Progdocs\CppLite\CppLite001\Projekt02\wxcrafter.h	/^class MainDialogBaseClass : public wxDialog$/;"	class	line:39	inherits:wxDialog
+m_staticText37	D:\Progdocs\CppLite\CppLite001\Projekt02\wxcrafter.h	/^    wxStaticText* m_staticText37;$/;"	member	line:42	class:MainDialogBaseClass	access:protected
+m_buttonOK	D:\Progdocs\CppLite\CppLite001\Projekt02\wxcrafter.h	/^    wxButton* m_buttonOK;$/;"	member	line:43	class:MainDialogBaseClass	access:protected
+m_buttonCancel	D:\Progdocs\CppLite\CppLite001\Projekt02\wxcrafter.h	/^    wxButton* m_buttonCancel;$/;"	member	line:44	class:MainDialogBaseClass	access:protected
+OnButtonokButtonClicked	D:\Progdocs\CppLite\CppLite001\Projekt02\wxcrafter.h	/^    virtual void OnButtonokButtonClicked(wxCommandEvent& event)$/;"	function	line:47	class:MainDialogBaseClass	access:protected	implementation:virtual	signature:(wxCommandEvent& event)	returns:virtual void 
+GetStaticText37	D:\Progdocs\CppLite\CppLite001\Projekt02\wxcrafter.h	/^    wxStaticText* GetStaticText37()$/;"	function	line:53	class:MainDialogBaseClass	access:public	signature:()	returns:wxStaticText 
+GetButtonOK	D:\Progdocs\CppLite\CppLite001\Projekt02\wxcrafter.h	/^    wxButton* GetButtonOK()$/;"	function	line:57	class:MainDialogBaseClass	access:public	signature:()	returns:wxButton 
+GetButtonCancel	D:\Progdocs\CppLite\CppLite001\Projekt02\wxcrafter.h	/^    wxButton* GetButtonCancel()$/;"	function	line:61	class:MainDialogBaseClass	access:public	signature:()	returns:wxButton 
+MainDialogBaseClass	D:\Progdocs\CppLite\CppLite001\Projekt02\wxcrafter.h	/^    MainDialogBaseClass(wxWindow* parent,$/;"	prototype	line:65	class:MainDialogBaseClass	access:public	signature:(wxWindowMSW* parent, wxWindowID id = wxID_ANY, const wxString& title = _("My Dialog"), const wxPoint& pos = wxDefaultPosition, const wxSize& size = wxSize(-1, -1), long style = wxDEFAULT_DIALOG_STYLE | wxFULL_REPAINT_ON_RESIZE | wxBORDER_STATIC)
+~MainDialogBaseClass	D:\Progdocs\CppLite\CppLite001\Projekt02\wxcrafter.h	/^    virtual ~MainDialogBaseClass();$/;"	prototype	line:71	class:MainDialogBaseClass	access:public	implementation:virtual	signature:()	returns:virtual 
