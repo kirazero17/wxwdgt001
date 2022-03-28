@@ -1,0 +1,1 @@
+../build-Debug/CppLite002/wxcrafter.cpp.o ../build-Debug/CppLite002/main.cpp.o ../build-Debug/CppLite002/wxcrafter_bitmaps.cpp.o ../build-Debug/CppLite002/MainDialog.cpp.o ../build-Debug/CppLite002/win_resources.rc.o   

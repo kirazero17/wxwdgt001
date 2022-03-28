@@ -1,0 +1,12 @@
+_WX_STATBMP_H_	C:\wxWidgets\include\wx\osx\statbmp.h	/^#define _WX_STATBMP_H_$/;"	macro	line:2
+wxStaticBitmap	C:\wxWidgets\include\wx\osx\statbmp.h	/^class WXDLLIMPEXP_CORE wxStaticBitmap : public wxStaticBitmapBase$/;"	class	line:6	inherits:wxStaticBitmapBase
+wxStaticBitmap	C:\wxWidgets\include\wx\osx\statbmp.h	/^    wxStaticBitmap() {}$/;"	function	line:9	class:wxStaticBitmap	access:public	signature:()
+wxStaticBitmap	C:\wxWidgets\include\wx\osx\statbmp.h	/^    wxStaticBitmap(wxWindow *parent,$/;"	function	line:10	class:wxStaticBitmap	access:public	signature:(wxWindowMSW *parent, wxWindowID id, const wxBitmap& bitmap, const wxPoint& pos = wxDefaultPosition, const wxSize& size = wxDefaultSize, long style = 0, const wxString& name = wxASCII_STR(wxStaticBitmapNameStr))
+Create	C:\wxWidgets\include\wx\osx\statbmp.h	/^    bool Create(wxWindow *parent,$/;"	prototype	line:21	class:wxStaticBitmap	access:public	signature:(wxWindowMSW *parent, wxWindowID id, const wxBitmap& bitmap, const wxPoint& pos = wxDefaultPosition, const wxSize& size = wxDefaultSize, long style = 0, const wxString& name = wxASCII_STR(wxStaticBitmapNameStr))	returns:bool 
+wxOVERRIDE	C:\wxWidgets\include\wx\osx\statbmp.h	/^    virtual void SetBitmap(const wxBitmap& bitmap) wxOVERRIDE;$/;"	member	line:29	class:wxStaticBitmap	access:public
+wxOVERRIDE	C:\wxWidgets\include\wx\osx\statbmp.h	/^    virtual void SetScaleMode(ScaleMode scaleMode) wxOVERRIDE;$/;"	member	line:45	class:wxStaticBitmap	access:public
+GetBitmapSize	C:\wxWidgets\include\wx\osx\statbmp.h	/^    wxSize GetBitmapSize()$/;"	function	line:50	class:wxStaticBitmap	access:private	signature:()	returns:wxSize 
+OnPaint	C:\wxWidgets\include\wx\osx\statbmp.h	/^    void OnPaint(wxPaintEvent& event);$/;"	prototype	line:56	class:wxStaticBitmap	access:private	signature:(wxPaintEvent& event)	returns:void 
+m_bitmap	C:\wxWidgets\include\wx\osx\statbmp.h	/^    wxBitmap m_bitmap;$/;"	member	line:58	class:wxStaticBitmap	access:private
+m_scaleMode	C:\wxWidgets\include\wx\osx\statbmp.h	/^    ScaleMode m_scaleMode;$/;"	member	line:59	class:wxStaticBitmap	access:private
+wxDECLARE_DYNAMIC_CLASS	C:\wxWidgets\include\wx\osx\statbmp.h	/^    wxDECLARE_DYNAMIC_CLASS(wxStaticBitmap);$/;"	prototype	line:61	class:wxStaticBitmap	access:private	signature:(wxStaticBitmap)
